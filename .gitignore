@@ -3,3 +3,4 @@
 logfile
 .gitignore
 __pycache__
+migrations
